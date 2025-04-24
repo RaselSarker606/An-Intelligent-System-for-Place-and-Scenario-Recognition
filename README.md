@@ -1,4 +1,4 @@
-# 🧠 Place or Scenario Detection System
+# ✨ Place or Scenario Detection System
 
 ## 📖 Overview
 
